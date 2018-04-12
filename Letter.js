@@ -2,9 +2,13 @@ function Letter(letter) {
     this.letter = letter;
     this.guessed = false;
 }
-
-Letter.prototype.hasBeenGuessed = function() {
-    return this.guessed;
+// getLetter to string insteads
+Letter.prototype.getLetter = function() {
+    if(this.guessed) {
+        return this.letter;
+    } else {
+        return "_";
+    }
 };
 
 Letter.prototype.guess = function(letter) {
