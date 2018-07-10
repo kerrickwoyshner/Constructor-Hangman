@@ -3,16 +3,16 @@ function Letter(letter) {
     this.guessed = false;
 }
 // getLetter to string insteads
-Letter.prototype.getLetter = function() {
-    if(this.guessed) {
+Letter.prototype.getLetter = function () {
+    if (this.guessed) {
         return this.letter;
     } else {
         return "_";
     }
 };
 
-Letter.prototype.guess = function(letter) {
-    if(this.letter === letter) {
+Letter.prototype.guess = function (letter) {
+    if (this.letter === letter) {
         this.guessed = true;
     }
 }
