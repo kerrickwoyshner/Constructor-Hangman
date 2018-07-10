@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "run \"node Index.js\" in your desired shell window and put your movie title memory to the test!",
+  "main": "Index.js",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerrickwoyshner/Constructor-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerrickwoyshner/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/kerrickwoyshner/Constructor-Hangman#readme"
+}
