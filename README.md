@@ -10,6 +10,8 @@ Think carefully before guessing a letter, this isn't Wheel of Fortune: you can't
 
 Once the word has been revealed, you can play again, or let your shell log you out.
 
+<img src="images/END.PNG" width="1000" height="200">
+
 I hope you have fun with this one! It isn't as crazy 80's as my last Hangman game, but you can still get your 80's flare on with some of these movies.. though I won't specify which ;)
 
 
