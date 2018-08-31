@@ -2,7 +2,7 @@
 
 run "node Index.js" in your desired shell window and put your movie title memory to the test!
 
-<img src="images/CLI.PNG" width="700" height="200">
+<img src="images/CLI.PNG" width="1000" height="200">
 
 You'll be prompted to guess the letters of the movie listed in underscores.
 
