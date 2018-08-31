@@ -2,6 +2,8 @@
 
 run "node Index.js" in your desired shell window and put your movie title memory to the test!
 
+<img src="images/CLI.png" width="700" height="200">
+
 You'll be prompted to guess the letters of the movie listed in underscores.
 
 Think carefully before guessing a letter, this isn't Wheel of Fortune: you can't guess the entire word.
